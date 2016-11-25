@@ -12,7 +12,7 @@ Creare un applicativo Anroid che utilizzi i sensori del device e che unito al mo
 - [ ] Utilizzo del giroscopio e dell'accelerometro del device per permettere il movimento in game
 - [ ] Feedback tattile che permette un azione qualsisi
 - [ ] Implementazione del filtro stereoscopico
-- [ ] Ottimmizazzsione del codice
+- [ ] Ottimizzazione del codice
 - [ ] Aggiunta di controller esterni
 
 
