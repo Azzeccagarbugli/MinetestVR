@@ -1,3 +1,5 @@
+![alt tag](http://i.imgur.com/ddX3VUa.png)
+
 # MinetestVR
 
 Progetto ideato dal gruppo di ragazzi del MakerSpace della bibloteca di Fabriano. 
