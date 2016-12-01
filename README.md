@@ -1,4 +1,4 @@
-![alt tag](http://i.imgur.com/ddX3VUa.png)
+![alt tag](http://i.imgur.com/mMHIHjC.png)
 
 # MinetestVR
 
