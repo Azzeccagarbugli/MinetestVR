@@ -12,7 +12,7 @@ Creare un applicativo Anroid che utilizzi i sensori del device e che unito al mo
 - [x] Compilazione e esecuzione di Minetest per Android
 - [ ] Studio e comprensione approfondita del codice
 - [ ] Utilizzo del giroscopio e dell'accelerometro del device per permettere il movimento in game
-- [ ] Feedback tattile che permette un azione qualsisi
+- [ ] Feedback tattile che permette un'azione qualsiasi
 - [ ] Implementazione del filtro stereoscopico
 - [ ] Ottimizzazione del codice
 - [ ] Aggiunta di controller esterni
